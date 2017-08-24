@@ -1,4 +1,4 @@
-package com.platzi.plantilla_menu_hamburguer.Views.Activitys;
+package com.platzi.plantilla_menu_hamburguer.Controllers;
 
 import android.app.Application;
 
