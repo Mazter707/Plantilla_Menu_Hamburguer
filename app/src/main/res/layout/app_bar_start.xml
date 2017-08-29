@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.platzi.plantilla_menu_hamburguer.Views.Activitys.StartActivity">
+    tools:context="com.platzi.plantilla_menu_hamburguer.Views.Activitys.MainActivity">
 
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"
