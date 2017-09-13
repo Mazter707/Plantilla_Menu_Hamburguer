@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "170233732354",
+    "firebase_url": "https://menu-hamburguesa.firebaseio.com",
+    "project_id": "menu-hamburguesa",
+    "storage_bucket": "menu-hamburguesa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170233732354:android:cc3d514e1a549b21",
+        "android_client_info": {
+          "package_name": "com.platzi.plantilla_menu_hamburguer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170233732354-ljned0mfk3a07lbmokve40phmftu0vcm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.platzi.plantilla_menu_hamburguer",
+            "certificate_hash": "0951eb32cea4eb760bcf484d05a797cd1a2195f7"
+          }
+        },
+        {
+          "client_id": "170233732354-d9o0hpq643e4lvdf20931kqshd66p6dh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6LCHIUL-4F59UoUFva1PRYr_y6JGCHJw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170233732354-d9o0hpq643e4lvdf20931kqshd66p6dh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -28,4 +28,15 @@
         android:layout_marginBottom="41dp"
         app:srcCompat="@android:drawable/sym_def_app_icon" />
 
+    <com.google.android.gms.common.SignInButton
+        android:id="@+id/signInButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="54dp"
+        android:layout_alignParentBottom="true"
+        >
+
+    </com.google.android.gms.common.SignInButton>
+
 </RelativeLayout>
